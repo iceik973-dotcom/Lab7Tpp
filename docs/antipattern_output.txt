@@ -1,0 +1,2 @@
+catch(...) handled non-standard exception 0
+catch(...) handled non-standard exception 1

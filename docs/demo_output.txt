@@ -1,0 +1,11 @@
+Euler: 2.59374
+Heun: 2.71408
+RK4: 2.71828
+Enter: middle
+Enter: inner
+Exit: inner
+Rethrowing original exception
+Exit: middle
+Caught: Artificial derivative failure
+Strong guarantee: preserved
+Input error: Step must be positive and finite
